@@ -1,4 +1,7 @@
 {
+  "rewrites": [
+    { "source": "/", "destination": "/copa-masculina.html" }
+  ],
   "headers": [
     {
       "source": "/(.*)",
